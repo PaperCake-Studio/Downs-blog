@@ -5,7 +5,8 @@
     "GMEEK_VERSION":"last",
     "homeUrl":"https://blog.downs.tach.eu.org",
     "singlePage":["link"],
-    "exlink":{"link":"https://downs.tach.eu.org"}
+    "exlink":{"link":"https://downs.tach.eu.org"},
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "urlMode":"issue"
 }
