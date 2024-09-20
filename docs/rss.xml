@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downs.tach.eu.org</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downs.tach.eu.org/images/favicon.ico</url><title>avatar</title><link>https://blog.downs.tach.eu.org</link></image><lastBuildDate>Fri, 20 Sep 2024 15:02:14 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>巨大进度！- 2024.09.20</title><link>https://blog.downs.tach.eu.org/post/4.html</link><description># 普通任务&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downs.tach.eu.org</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downs.tach.eu.org/images/favicon.ico</url><title>avatar</title><link>https://blog.downs.tach.eu.org</link></image><lastBuildDate>Fri, 20 Sep 2024 15:04:47 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>巨大进度！- 2024.09.20</title><link>https://blog.downs.tach.eu.org/post/4.html</link><description># 普通任务&#13;
 ## 预览&#13;
 ![图片](https://github.com/user-attachments/assets/c9342546-db32-449d-a8f0-2d288a67083b)&#13;
 ***普通任务页***&#13;
@@ -7,7 +7,7 @@
 ## What's New?&#13;
 这次的进度可以说是**唐氏练习题**史上最重大的进度！本次修复了以往旧版本做普通任务时的*时间跳动与数据错误问题*！&#13;
 &#13;
-## ”*人与法西斯无法共存。</description><guid isPermaLink="true">https://blog.downs.tach.eu.org/post/4.html</guid><pubDate>Fri, 20 Sep 2024 15:01:48 +0000</pubDate></item><item><title>当前进度 - 2024.09.18</title><link>https://blog.downs.tach.eu.org/post/3.html</link><description># 登录界面&#13;
+## “*人与法西斯无法共存。</description><guid isPermaLink="true">https://blog.downs.tach.eu.org/post/4.html</guid><pubDate>Fri, 20 Sep 2024 15:01:48 +0000</pubDate></item><item><title>当前进度 - 2024.09.18</title><link>https://blog.downs.tach.eu.org/post/3.html</link><description># 登录界面&#13;
 ![图片](https://github.com/user-attachments/assets/423c933c-1a3d-4f68-8967-3a433a7e8c82)&#13;
 *登录界面现已独立*&#13;
 &#13;
