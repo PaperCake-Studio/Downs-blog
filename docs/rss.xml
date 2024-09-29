@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downs.tach.eu.org</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downs.tach.eu.org/images/favicon.ico</url><title>avatar</title><link>https://blog.downs.tach.eu.org</link></image><lastBuildDate>Sun, 29 Sep 2024 09:38:12 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>早上好中国，今天我有唐氏练习题！</title><link>https://blog.downs.tach.eu.org/post/5.html</link><description># 唐氏练习题 v2024.09.29 ALPHA&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downs.tach.eu.org</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downs.tach.eu.org/images/favicon.ico</url><title>avatar</title><link>https://blog.downs.tach.eu.org</link></image><lastBuildDate>Sun, 29 Sep 2024 14:24:13 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>孩子们，我很勤劳</title><link>https://blog.downs.tach.eu.org/post/6.html</link><description># v2024.09.29b ALPHA&#13;
+一天之内更新两次，以前的感觉又回来了&#13;
+&#13;
+## 你更了甚么&#13;
+- 更新了设置保存、记住账号与自动登录功能&#13;
+&#13;
+## 下载&#13;
+[&lt;img src='https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true' width='175'  /&gt;](https://downs.tach.eu.org/download)&#13;
+&#13;
+## ***现在的失败主义态度无疑会导致失败…我们不能放弃未来。</description><guid isPermaLink="true">https://blog.downs.tach.eu.org/post/6.html</guid><pubDate>Sun, 29 Sep 2024 14:23:48 +0000</pubDate></item><item><title>早上好中国，今天我有唐氏练习题！</title><link>https://blog.downs.tach.eu.org/post/5.html</link><description># 唐氏练习题 v2024.09.29 ALPHA&#13;
 我们在此，怀着极大的热情，与同志们分享今天的喜讯。</description><guid isPermaLink="true">https://blog.downs.tach.eu.org/post/5.html</guid><pubDate>Sun, 29 Sep 2024 09:37:38 +0000</pubDate></item><item><title>巨大进度！- 2024.09.20</title><link>https://blog.downs.tach.eu.org/post/4.html</link><description># 普通任务&#13;
 ## 预览&#13;
 ![图片](https://github.com/user-attachments/assets/c9342546-db32-449d-a8f0-2d288a67083b)&#13;
