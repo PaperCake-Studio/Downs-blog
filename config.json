@@ -1,11 +1,11 @@
 {
     "title":"唐氏练习题开发博客",
     "subTitle":"这里会有唐氏练习题的开发进度与公告等",
-    "avatarUrl":"https://downs.tach.eu.org/images/favicon.ico",
+    "avatarUrl":"https://downsicient.tach.eu.org/images/favicon.ico",
     "GMEEK_VERSION":"last",
-    "homeUrl":"https://blog.downs.tach.eu.org",
+    "homeUrl":"https://blog.downsicient.tach.eu.org",
     "singlePage":["link"],
-    "exlink":{"link":"https://downs.tach.eu.org"},
+    "exlink":{"link":"https://downsicient.tach.eu.org"},
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "urlMode":"issue"
