@@ -16,7 +16,7 @@
 ***其他两种任务页面相似，此处省略***
 
 ## 安装
-[<img src="https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true" width="175"  />](https://downsicient.tach.eu.org/lite/download.html)
+[<img src="https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true" width="175"  />](https://downsicient.us.kg/lite/download.html)
 需要事先安装 **Tampermonkey** ，之后再点击安装，如果弹出如下**类似界面**，点击安装后就安装成功了。
 <img src="https://github.com/user-attachments/assets/21c1a921-d9e8-489d-a7d8-f8a3bab32835" width="700vw"/>
 

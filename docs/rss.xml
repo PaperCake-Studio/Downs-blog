@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downsicient.tach.eu.org</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downsicient.tach.eu.org/images/favicon.ico</url><title>avatar</title><link>https://blog.downsicient.tach.eu.org</link></image><lastBuildDate>Sun, 13 Oct 2024 12:43:25 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>v2024.10.06 BETA</title><link>https://blog.downsicient.tach.eu.org/post/8.html</link><description># v2024.10.06 BETA&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>唐氏练习题开发博客</title><link>https://blog.downsicient.us.kg</link><description>这里会有唐氏练习题的开发进度与公告等</description><copyright>唐氏练习题开发博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://downsicient.us.kg/images/favicon.ico</url><title>avatar</title><link>https://blog.downsicient.us.kg</link></image><lastBuildDate>Sun, 13 Oct 2024 12:45:09 +0000</lastBuildDate><managingEditor>唐氏练习题开发博客</managingEditor><ttl>60</ttl><webMaster>唐氏练习题开发博客</webMaster><item><title>v2024.10.06 BETA</title><link>https://blog.downsicient.us.kg/post/8.html</link><description># v2024.10.06 BETA&#13;
 &#13;
 ## 你更了甚么&#13;
 - 修复了BUG&#13;
 &#13;
 ## 下载&#13;
-[&lt;img src='https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true' width='175'  /&gt;](https://downsicient.us.kg/download)。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/8.html</guid><pubDate>Sun, 06 Oct 2024 13:59:34 +0000</pubDate></item><item><title>唐氏练习题Lite - v2024.10.05_01</title><link>https://blog.downsicient.tach.eu.org/post/7.html</link><description>对于唐氏练习题不方便携带的问题，我们给出了解决方法：&#13;
+[&lt;img src='https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true' width='175'  /&gt;](https://downsicient.us.kg/download)。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/8.html</guid><pubDate>Sun, 06 Oct 2024 13:59:34 +0000</pubDate></item><item><title>唐氏练习题Lite - v2024.10.05_01</title><link>https://blog.downsicient.us.kg/post/7.html</link><description>对于唐氏练习题不方便携带的问题，我们给出了解决方法：&#13;
 # 唐氏练习题Lite&#13;
 ## 怎么说？&#13;
-我们使用了 **Tampermonkey** 制作插件，更方便携带与操作。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/7.html</guid><pubDate>Sat, 05 Oct 2024 16:18:33 +0000</pubDate></item><item><title>孩子们，我很勤劳</title><link>https://blog.downsicient.tach.eu.org/post/6.html</link><description># v2024.09.29b ALPHA&#13;
+我们使用了 **Tampermonkey** 制作插件，更方便携带与操作。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/7.html</guid><pubDate>Sat, 05 Oct 2024 16:18:33 +0000</pubDate></item><item><title>孩子们，我很勤劳</title><link>https://blog.downsicient.us.kg/post/6.html</link><description># v2024.09.29b ALPHA&#13;
 一天之内更新两次，以前的感觉又回来了&#13;
 &#13;
 ## 你更了甚么&#13;
 - 更新了设置保存、记住账号与自动登录功能&#13;
 &#13;
 ## 下载&#13;
-[&lt;img src='https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true' width='175'  /&gt;](https://downsicient.tach.eu.org/download)&#13;
+[&lt;img src='https://github.com/PaperCake-Studio/Downs-blog/blob/main/download-btn.png?raw=true' width='175'  /&gt;](https://downsicient.us.kg/download)&#13;
 &#13;
-## ***现在的失败主义态度无疑会导致失败…我们不能放弃未来。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/6.html</guid><pubDate>Sun, 29 Sep 2024 14:23:48 +0000</pubDate></item><item><title>早上好中国，今天我有唐氏练习题！</title><link>https://blog.downsicient.tach.eu.org/post/5.html</link><description># 唐氏练习题 v2024.09.29 ALPHA&#13;
-我们在此，怀着极大的热情，与同志们分享今天的喜讯。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/5.html</guid><pubDate>Sun, 29 Sep 2024 09:37:38 +0000</pubDate></item><item><title>巨大进度！- 2024.09.20</title><link>https://blog.downsicient.tach.eu.org/post/4.html</link><description># 普通任务&#13;
+## ***现在的失败主义态度无疑会导致失败…我们不能放弃未来。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/6.html</guid><pubDate>Sun, 29 Sep 2024 14:23:48 +0000</pubDate></item><item><title>早上好中国，今天我有唐氏练习题！</title><link>https://blog.downsicient.us.kg/post/5.html</link><description># 唐氏练习题 v2024.09.29 ALPHA&#13;
+我们在此，怀着极大的热情，与同志们分享今天的喜讯。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/5.html</guid><pubDate>Sun, 29 Sep 2024 09:37:38 +0000</pubDate></item><item><title>巨大进度！- 2024.09.20</title><link>https://blog.downsicient.us.kg/post/4.html</link><description># 普通任务&#13;
 ## 预览&#13;
 ![图片](https://github.com/user-attachments/assets/c9342546-db32-449d-a8f0-2d288a67083b)&#13;
 ***普通任务页***&#13;
@@ -26,7 +26,7 @@
 ## What's New?&#13;
 这次的进度可以说是**唐氏练习题**史上最重大的进度！本次修复了以往旧版本做普通任务时的*时间跳动与数据错误问题*！&#13;
 &#13;
-## “*人与法西斯无法共存。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/4.html</guid><pubDate>Fri, 20 Sep 2024 15:01:48 +0000</pubDate></item><item><title>当前进度 - 2024.09.18</title><link>https://blog.downsicient.tach.eu.org/post/3.html</link><description># 登录界面&#13;
+## “*人与法西斯无法共存。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/4.html</guid><pubDate>Fri, 20 Sep 2024 15:01:48 +0000</pubDate></item><item><title>当前进度 - 2024.09.18</title><link>https://blog.downsicient.us.kg/post/3.html</link><description># 登录界面&#13;
 ![图片](https://github.com/user-attachments/assets/423c933c-1a3d-4f68-8967-3a433a7e8c82)&#13;
 *登录界面现已独立*&#13;
 &#13;
@@ -34,6 +34,6 @@
 ![图片](https://github.com/user-attachments/assets/e6a1f86f-5c8b-4cbc-9d48-3860bf6b439d)&#13;
 *目前仅完成了总览页*&#13;
 &#13;
-## *自由是人民争取出来的，不是什么人恩赐的。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/3.html</guid><pubDate>Wed, 18 Sep 2024 13:48:22 +0000</pubDate></item><item><title>关于全盘抛弃旧版本的告示</title><link>https://blog.downsicient.tach.eu.org/post/2.html</link><description># 为什么&#13;
-旧版本的**唐氏练习题**是采用**易语言**进行编写的，本就不适合如今的环境，只是因为方便，才一直沿用了下去。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/2.html</guid><pubDate>Sun, 15 Sep 2024 11:30:36 +0000</pubDate></item><item><title>欢迎来到唐氏练习题开发博客</title><link>https://blog.downsicient.tach.eu.org/post/1.html</link><description># 这是干什么用的？&#13;
-这个博客用于发布一些开发动态，这样大家也方便查看。</description><guid isPermaLink="true">https://blog.downsicient.tach.eu.org/post/1.html</guid><pubDate>Sun, 15 Sep 2024 10:25:10 +0000</pubDate></item></channel></rss>
+## *自由是人民争取出来的，不是什么人恩赐的。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/3.html</guid><pubDate>Wed, 18 Sep 2024 13:48:22 +0000</pubDate></item><item><title>关于全盘抛弃旧版本的告示</title><link>https://blog.downsicient.us.kg/post/2.html</link><description># 为什么&#13;
+旧版本的**唐氏练习题**是采用**易语言**进行编写的，本就不适合如今的环境，只是因为方便，才一直沿用了下去。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/2.html</guid><pubDate>Sun, 15 Sep 2024 11:30:36 +0000</pubDate></item><item><title>欢迎来到唐氏练习题开发博客</title><link>https://blog.downsicient.us.kg/post/1.html</link><description># 这是干什么用的？&#13;
+这个博客用于发布一些开发动态，这样大家也方便查看。</description><guid isPermaLink="true">https://blog.downsicient.us.kg/post/1.html</guid><pubDate>Sun, 15 Sep 2024 10:25:10 +0000</pubDate></item></channel></rss>
