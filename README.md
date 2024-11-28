@@ -1,6 +1,6 @@
-# 唐氏练习题开发博客 :link: https://blog.downsicient.us.kg 
-### :page_facing_up: [10](https://blog.downsicient.us.kg/tag.html) 
+# 唐氏练习题Bug追踪网站 :link: https://bug.downsicient.us.kg 
+### :page_facing_up: [1](https://bug.downsicient.us.kg/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 3210 
-### :alarm_clock: 2024-11-28 15:45:02 
+### :hibiscus: 28 
+### :alarm_clock: 2024-11-28 15:53:33 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
