@@ -6,6 +6,5 @@
     "homeUrl":"https://bug.downsicient.us.kg",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
-    "script":"<script async crossorigin=anonymous data-category=Comments data-category-id=DIC_kwDOMx8yj84CkraM data-emit-metadata=0 data-input-position=bottom data-lang=zh-CN data-mapping=specific data-reactions-enabled=1 data-repo=PaperCake-Studio/Downs-blog data-repo-id=R_kgDOMx8yjw data-strict=0 data-term=GISCUS data-theme=preferred_color_scheme src=https://giscus.app/client.js></script>",
     "urlMode":"issue"
 }
